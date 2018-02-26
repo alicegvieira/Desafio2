@@ -20,7 +20,7 @@ Default path is '/alice/desafio2/csv_files', to change value replace variable 'e
 
 ## Steps to test
  - execute file exportcontent.py using 'from' and 'to' date required parameters on formart 'dd/mm/YYYY'
- - example: **python3 exportcontent --from 01/01/2018 --to 10/01/2018**
+ - example: **python3 exportcontent.py --from 01/01/2018 --to 10/01/2018**
 
 This example will search content by keyword 'education' from date '10/10/2018' to date '11/10/2018' and save content to file '/alice/desafio2/csv_files/content_f_10102018_t_10102018_$DatetimeOfExecution.csv'
 
