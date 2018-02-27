@@ -12,6 +12,9 @@ Script to get content from The Guardian API and export to .csv file
 Class to get content from The Guardian API
 
 ## Configuration to testing
+
+**This test can be done either by downloading the Enviroment Teste (same from Desafio1) at /alice/desafio2/ or by downloading these files and changing the following configurations:**
+
 ##### API Key 
 To change value replace variable 'apikey' at file 'exportcontent.py'
 
