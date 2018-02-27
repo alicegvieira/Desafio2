@@ -16,10 +16,10 @@ Class to get content from The Guardian API
 **This test can be done either by downloading the Enviroment Teste (same from Desafio1) at /alice/desafio2/ or by downloading these files and changing the following configurations:**
 
 ##### API Key 
-To change value replace variable 'apikey' at file 'exportcontent.py'
+To change value update variable 'apikey' at file 'exportcontent.py'
 
 ##### Path to save the .csv file 
-Default path is '/alice/desafio2/csv_files', to change value replace variable 'exportpath' at file 'exportcontent.py' 
+Default path is '/alice/desafio2/csv_files', to change value update variable 'exportpath' at file 'exportcontent.py' 
 
 ## Steps to test
  - execute file exportcontent.py using 'from' and 'to' date required parameters on formart 'dd/mm/YYYY'
